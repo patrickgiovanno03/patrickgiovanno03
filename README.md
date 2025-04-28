@@ -29,29 +29,33 @@ I'm a passionate Fullstack and Software Engineer from Indonesia.
 ## Tech Stack
 
 ### 🛠 Language
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/Language-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Language-Java-red?logo=java)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/Language-PHP-777BB4?logo=php)
+![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python)
+![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?logo=kotlin)
+![Dart](https://img.shields.io/badge/Language-Dart-0175C2?logo=dart)
+![Swift](https://img.shields.io/badge/Language-Swift-FA7343?logo=swift)
 
 ### 🚀 Framework
-![React](https://img.shields.io/badge/Framework-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Framework-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Framework-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Framework-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Framework-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Framework-Laravel-FF2D20?logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Framework-Flutter-02569B?logo=flutter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Framework-Vue.js-4FC08D?logo=vue.js&logoColor=white)
 
 ### 🗄 Database
-![MySQL](https://img.shields.io/badge/Database-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ### 🧰 Tools
-![Git](https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/Tools-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Tools-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Tools-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Tools-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/Tools-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Tools-GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Tools-Postman-FF6C37?logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Tools-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Mosquitto](https://img.shields.io/badge/Tools-Mosquitto-62C3DE?logo=eclipsemosquitto&logoColor=black)
+![Figma](https://img.shields.io/badge/Tools-Figma-F24E1E?logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Tools-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Tools-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
+![Blender](https://img.shields.io/badge/Tools-Blender-F5792A?logo=blender&logoColor=white)
 
 ## Let's Connect!
 
